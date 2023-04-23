@@ -1,11 +1,13 @@
 #title {
-    color: red;
+    color: lemonchiffon;
 }
 
 .blue {
-    color: blue;
+    color: white;
 }
 
 h2 {
-    color: green;
+    color: white;
 }
+
+body {background-color: rgb(19, 33, 103);}
