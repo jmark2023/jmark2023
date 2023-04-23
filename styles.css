@@ -4,6 +4,10 @@ body {background-color: rgb(19, 33, 103);}
     color: lemonchiffon;
 }
 
+p {
+    color: whitesmoke;
+}
+
 h1 {
     color:lemonchiffon;
 }
@@ -20,6 +24,4 @@ h3 {
     color: white;
 }
 
-p {
-    color: whitesmoke;
-}
+
