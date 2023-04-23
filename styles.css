@@ -1,13 +1,14 @@
+body {background-color: rgb(19, 33, 103);}
+
 #title {
     color: lemonchiffon;
 }
 
-.blue {
-    color: white;
+h1 {
+    color:azure;
 }
 
 h2 {
     color: white;
 }
 
-body {background-color: rgb(19, 33, 103);}
